@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoadTripGames</string>
+    <string name="license_launch_button_text">Start License Plate Detector</string>
+    <string name="ispy_launch_button_text">Start I Spy</string>
+</resources>
