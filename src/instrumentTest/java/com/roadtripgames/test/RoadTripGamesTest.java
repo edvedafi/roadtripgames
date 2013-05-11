@@ -12,5 +12,6 @@ public class RoadTripGamesTest extends ActivityInstrumentationTestCase2<RoadTrip
    public void testMainApp() {
        System.out.println("here!");
        assertTrue( true );
+       fail( "Want to see this fail" );
    }
 }
